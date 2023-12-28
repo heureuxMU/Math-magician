@@ -1,0 +1,13 @@
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  font-family: "Sacramento", cursive;
+  flex-direction: column;
+  color: black;
+}
